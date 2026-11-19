@@ -1,0 +1,4 @@
+[core]
+    remote = laksh_remote
+['remote "laksh_remote"']
+    url = ../dvc-storage
